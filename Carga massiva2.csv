@@ -1,0 +1,101 @@
+Tipo de Item;Resumo;Jornadas;Data Limite;Cargo;Start Date;Area;Data Aprovado
+Servi?o;Ordem faturamento;51;06/03/2021;Desenvolvedor Pleno;14/01/2021;Financas;16/04/2020
+Servi?o;Ordem faturamento;352;11/04/2024;Desenvolvedor Jr;25/04/2023;Seguranca;20/08/2023
+Servi?o;Ordem faturamento;173;12/05/2022;Desenvolvedor Sr;20/11/2021;Marketing;06/07/2019
+Servi?o;Ordem faturamento;352;06/03/2019;Desenvolvedor Jr;19/03/2018;Marketing;29/10/2016
+Servi?o;Ordem faturamento;294;19/05/2022;Desenvolvedor Sr;29/07/2021;Industrial;05/12/2016
+Servi?o;Ordem faturamento;327;15/04/2024;Analista Funcional;24/05/2023;Seguranca;14/06/2023
+Servi?o;Ordem faturamento;197;22/03/2019;QA;06/09/2018;Manutencao;17/09/2016
+Servi?o;Ordem faturamento;133;23/02/2023;Desenvolvedor Pleno;13/10/2022;Marketing;24/02/2018
+Servi?o;Ordem faturamento;355;14/10/2022;Scrum Master;24/10/2021;Industrial;05/10/2016
+Servi?o;Ordem faturamento;328;22/11/2020;Scrum Master;30/12/2019;Industrial;01/09/2016
+Servi?o;Ordem faturamento;111;27/11/2022;QA;08/08/2022;Financas;13/07/2019
+Servi?o;Ordem faturamento;248;13/04/2017;Desenvolvedor Jr;08/08/2016;Industrial;05/10/2021
+Servi?o;Ordem faturamento;40;10/04/2022;Gerente de projetos;01/03/2022;RH;28/08/2020
+Servi?o;Ordem faturamento;203;30/12/2019;Gerente de projetos;10/06/2019;Juridica;10/03/2020
+Servi?o;Ordem faturamento;73;19/06/2017;Desenvolvedor Jr;07/04/2017;Financas;31/01/2019
+Servi?o;Ordem faturamento;257;09/05/2019;QA;25/08/2018;Seguranca;23/06/2021
+Servi?o;Ordem faturamento;357;30/04/2023;Desenvolvedor Jr;08/05/2022;Marketing;21/12/2018
+Servi?o;Ordem faturamento;360;16/06/2020;Desenvolvedor Sr;22/06/2019;Manutencao;26/10/2020
+Servi?o;Ordem faturamento;353;05/01/2017;Scrum Master;18/01/2016;Financas;16/08/2017
+Servi?o;Ordem faturamento;166;03/08/2022;Analista Funcional;18/02/2022;Seguranca;28/03/2018
+Servi?o;Ordem faturamento;92;22/06/2017;Desenvolvedor Pleno;22/03/2017;T.I;22/05/2016
+Servi?o;Ordem faturamento;199;05/01/2018;QA;20/06/2017;RH;10/12/2018
+Servi?o;Ordem faturamento;225;15/02/2024;QA;05/07/2023;RH;30/03/2019
+Servi?o;Ordem faturamento;251;19/08/2022;Gerente de projetos;11/12/2021;RH;23/11/2021
+Servi?o;Ordem faturamento;236;28/01/2020;QA;06/06/2019;Industrial;14/06/2019
+Servi?o;Ordem faturamento;160;17/12/2021;Desenvolvedor Sr;10/07/2021;Seguranca;06/03/2018
+Servi?o;Ordem faturamento;182;30/06/2017;Desenvolvedor Jr;30/12/2016;Financas;11/12/2022
+Servi?o;Ordem faturamento;104;27/08/2020;Desenvolvedor Pleno;15/05/2020;T.I;01/05/2022
+Servi?o;Ordem faturamento;230;14/05/2023;Scrum Master;26/09/2022;Seguranca;18/02/2019
+Servi?o;Ordem faturamento;158;06/03/2018;QA;29/09/2017;Marketing;20/09/2021
+Servi?o;Ordem faturamento;242;22/04/2017;Desenvolvedor Jr;23/08/2016;T.I;17/10/2017
+Servi?o;Ordem faturamento;53;02/09/2023;Scrum Master;11/07/2023;Marketing;20/06/2018
+Servi?o;Ordem faturamento;86;18/04/2022;Analista Funcional;22/01/2022;Seguranca;21/07/2019
+Servi?o;Ordem faturamento;43;04/01/2023;Desenvolvedor Sr;22/11/2022;Financas;01/09/2022
+Servi?o;Ordem faturamento;257;30/08/2020;Gerente de projetos;17/12/2019;T.I;27/12/2021
+Servi?o;Ordem faturamento;322;05/12/2021;Analista Funcional;17/01/2021;Manutencao;31/03/2022
+Servi?o;Ordem faturamento;328;09/02/2020;Desenvolvedor Pleno;18/03/2019;Marketing;12/07/2016
+Servi?o;Ordem faturamento;142;06/11/2022;Scrum Master;17/06/2022;T.I;25/09/2016
+Servi?o;Ordem faturamento;261;11/01/2017;QA;25/04/2016;Marketing;25/02/2017
+Servi?o;Ordem faturamento;185;02/01/2022;Desenvolvedor Jr;01/07/2021;Seguranca;12/07/2019
+Servi?o;Ordem faturamento;328;18/03/2018;QA;24/04/2017;Manutencao;05/12/2022
+Servi?o;Ordem faturamento;88;28/09/2023;Scrum Master;02/07/2023;Seguranca;15/06/2018
+Servi?o;Ordem faturamento;134;10/01/2018;Analista Funcional;29/08/2017;Manutencao;09/08/2022
+Servi?o;Ordem faturamento;340;22/06/2024;Gerente de projetos;18/07/2023;Industrial;10/04/2018
+Servi?o;Ordem faturamento;31;02/11/2016;Desenvolvedor Pleno;02/10/2016;Juridica;06/09/2021
+Servi?o;Ordem faturamento;243;13/03/2021;Scrum Master;13/07/2020;Juridica;04/10/2021
+Servi?o;Ordem faturamento;327;30/08/2020;Desenvolvedor Pleno;08/10/2019;Seguranca;21/04/2016
+Servi?o;Ordem faturamento;222;10/02/2024;QA;03/07/2023;Financas;16/02/2016
+Servi?o;Ordem faturamento;33;05/03/2021;Desenvolvedor Pleno;31/01/2021;RH;07/05/2023
+Servi?o;Ordem faturamento;143;17/11/2023;Gerente de projetos;27/06/2023;T.I;23/06/2020
+Servi?o;Ordem faturamento;198;17/06/2023;QA;01/12/2022;Financas;18/07/2020
+Servi?o;Ordem faturamento;186;16/09/2020;QA;14/03/2020;Juridica;15/01/2021
+Servi?o;Ordem faturamento;153;30/04/2022;Desenvolvedor Sr;28/11/2021;RH;12/04/2018
+Servi?o;Ordem faturamento;287;14/03/2020;Desenvolvedor Jr;01/06/2019;Juridica;28/06/2016
+Servi?o;Ordem faturamento;97;04/12/2020;Scrum Master;29/08/2020;Marketing;31/08/2020
+Servi?o;Ordem faturamento;320;15/08/2019;Desenvolvedor Sr;29/09/2018;T.I;23/10/2017
+Servi?o;Ordem faturamento;173;31/05/2022;Scrum Master;09/12/2021;Manutencao;03/08/2019
+Servi?o;Ordem faturamento;129;22/06/2022;Gerente de projetos;13/02/2022;Marketing;23/01/2022
+Servi?o;Ordem faturamento;121;14/06/2022;Analista Funcional;13/02/2022;Seguranca;04/01/2017
+Servi?o;Ordem faturamento;234;08/10/2017;Desenvolvedor Pleno;16/02/2017;Industrial;22/05/2018
+Servi?o;Ordem faturamento;23;21/07/2022;Desenvolvedor Sr;28/06/2022;Manutencao;18/04/2021
+Servi?o;Ordem faturamento;13;14/04/2021;Analista Funcional;01/04/2021;RH;12/05/2016
+Servi?o;Ordem faturamento;283;16/07/2017;QA;06/10/2016;Industrial;09/04/2017
+Servi?o;Ordem faturamento;319;15/04/2024;Desenvolvedor Pleno;01/06/2023;Marketing;23/10/2017
+Servi?o;Ordem faturamento;327;13/11/2019;Scrum Master;21/12/2018;Industrial;23/12/2020
+Servi?o;Ordem faturamento;84;22/08/2020;Scrum Master;30/05/2020;Juridica;03/06/2021
+Servi?o;Ordem faturamento;247;26/11/2023;Desenvolvedor Sr;24/03/2023;Juridica;28/08/2016
+Servi?o;Ordem faturamento;104;06/03/2022;Desenvolvedor Sr;22/11/2021;Juridica;10/11/2022
+Servi?o;Ordem faturamento;355;08/07/2018;Analista Funcional;18/07/2017;Financas;12/06/2019
+Servi?o;Ordem faturamento;47;07/10/2016;Desenvolvedor Sr;21/08/2016;RH;10/07/2019
+Servi?o;Ordem faturamento;316;07/09/2017;QA;26/10/2016;Seguranca;21/07/2017
+Servi?o;Ordem faturamento;321;30/12/2017;QA;12/02/2017;Manutencao;22/06/2020
+Servi?o;Ordem faturamento;100;25/12/2020;QA;16/09/2020;Seguranca;22/06/2021
+Servi?o;Ordem faturamento;35;07/02/2018;Analista Funcional;03/01/2018;Juridica;01/02/2022
+Servi?o;Ordem faturamento;77;25/07/2020;Gerente de projetos;09/05/2020;Manutencao;25/08/2021
+Servi?o;Ordem faturamento;102;23/05/2023;Desenvolvedor Jr;10/02/2023;RH;06/06/2022
+Servi?o;Ordem faturamento;342;27/08/2017;Desenvolvedor Pleno;19/09/2016;Manutencao;18/10/2020
+Servi?o;Ordem faturamento;163;10/10/2017;Scrum Master;30/04/2017;Seguranca;13/01/2017
+Servi?o;Ordem faturamento;152;11/10/2016;Gerente de projetos;12/05/2016;T.I;08/02/2017
+Servi?o;Ordem faturamento;130;02/06/2022;Desenvolvedor Jr;23/01/2022;Industrial;05/06/2019
+Servi?o;Ordem faturamento;42;15/05/2016;QA;03/04/2016;Marketing;03/06/2017
+Servi?o;Ordem faturamento;272;13/03/2020;Analista Funcional;15/06/2019;Manutencao;26/02/2017
+Servi?o;Ordem faturamento;19;24/08/2021;Analista Funcional;05/08/2021;Seguranca;13/09/2020
+Servi?o;Ordem faturamento;264;22/11/2023;Desenvolvedor Pleno;03/03/2023;T.I;09/06/2018
+Servi?o;Ordem faturamento;331;27/01/2018;Desenvolvedor Jr;02/03/2017;Marketing;01/08/2021
+Servi?o;Ordem faturamento;210;16/06/2017;Desenvolvedor Sr;18/11/2016;RH;10/12/2017
+Servi?o;Ordem faturamento;149;26/09/2023;Desenvolvedor Pleno;30/04/2023;Marketing;11/11/2021
+Servi?o;Ordem faturamento;207;13/04/2021;Gerente de projetos;18/09/2020;Juridica;01/05/2020
+Servi?o;Ordem faturamento;324;04/07/2017;QA;14/08/2016;Seguranca;16/07/2016
+Servi?o;Ordem faturamento;186;14/08/2017;Analista Funcional;09/02/2017;RH;17/09/2018
+Servi?o;Ordem faturamento;162;02/05/2018;Desenvolvedor Jr;21/11/2017;Financas;30/03/2017
+Servi?o;Ordem faturamento;35;29/10/2021;QA;24/09/2021;RH;11/10/2022
+Servi?o;Ordem faturamento;120;30/04/2021;Gerente de projetos;31/12/2020;Manutencao;02/09/2022
+Servi?o;Ordem faturamento;283;02/11/2019;Desenvolvedor Jr;23/01/2019;Seguranca;17/10/2021
+Servi?o;Ordem faturamento;18;09/04/2022;Gerente de projetos;22/03/2022;Financas;15/04/2020
+Servi?o;Ordem faturamento;275;29/12/2020;QA;29/03/2020;Seguranca;06/09/2020
+Servi?o;Ordem faturamento;308;18/11/2020;Gerente de projetos;15/01/2020;Manutencao;17/09/2016
+Servi?o;Ordem faturamento;234;31/10/2020;Desenvolvedor Sr;11/03/2020;Manutencao;03/05/2019
+Servi?o;Ordem faturamento;172;27/09/2020;Gerente de projetos;08/04/2020;Manutencao;13/11/2017
+Servi?o;Ordem faturamento;80;19/07/2016;Analista Funcional;30/04/2016;Financas;13/11/2022

@@ -1,0 +1,66 @@
+{
+  "config.version" : "2.0",
+  "config.project.from.csv" : "false",
+  "config.encoding" : "UTF-8",
+  "config.file.id" : "336b3a46-f4ae-4a42-adb3-1a978f2cf122",
+  "config.email.suffix" : "@",
+  "config.file.name" : "Pasta1.csv",
+  "config.field.mappings" : {
+    "Cargo" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10039"
+    },
+    "Area" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10040"
+    },
+    "Start Date" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10015"
+    },
+    "Resumo" : {
+      "jira.field" : "summary",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Jornadas" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10037"
+    },
+    "Data Limite" : {
+      "jira.field" : "duedate",
+      "userChanged" : "true",
+      "manualMapping" : "false"
+    },
+    "Data Aprovado" : {
+      "userChanged" : "true",
+      "manualMapping" : "false",
+      "existing.custom.field" : "10041"
+    },
+    "Tipo de Item" : {
+      "jira.field" : "issuetype",
+      "userChanged" : "true",
+      "manualMapping" : "true"
+    }
+  },
+  "config.csv.file.id" : null,
+  "config.value.mappings" : {
+    "Tipo de Item" : {
+      "Servi�o" : "10007"
+    }
+  },
+  "config.delimiter" : ";",
+  "config.project" : {
+    "project.type" : null,
+    "project.key" : "FI",
+    "project.description" : null,
+    "project.url" : null,
+    "project.name" : "Faculdade Impacta",
+    "project.lead" : "712020:8034c0e8-3296-49cc-94be-f0f26587dc45"
+  },
+  "config.date.format" : "dd/MM/yyyy"
+}
